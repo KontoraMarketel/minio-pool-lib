@@ -7,7 +7,7 @@ name = "minio_pool_goginski"
 version = "0.1.2"
 description = "MinIO client wrapper with pooling for aioboto3"
 authors = [
-  { name = "Goginski, email = "georgiy.gus@yandex.ru" }
+  { name = "Goginski", email = "georgiy.gus@yandex.ru" }
 ]
 license = { text = "MIT" }
 requires-python = ">=3.9"
